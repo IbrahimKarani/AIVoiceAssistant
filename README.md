@@ -1,6 +1,6 @@
 # AI Voice Assistant
 
-This project is create using Flutter with the help of ChatGPT and DALL-E. This is an exploration project I create while learning Flutter with the help of youtube video tutorial that you can watch here : https://www.youtube.com/watch?v=Q_pz4xFow3Q&t=2697s
+This project is created using Flutter with the help of ChatGPT and DALL-E. This is an exploration project I create while learning Flutter with the help of youtube video tutorial that you can watch here : https://www.youtube.com/watch?v=Q_pz4xFow3Q&t=2697s
 
 ## Getting Started
 
